@@ -5,3 +5,5 @@ banana
 orange
 grapes
 cereal
+mango
+papaya
